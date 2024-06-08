@@ -8,10 +8,10 @@ USER-AGENT,*WeatherFoundation*
 DOMAIN,weather-data.apple.com
     
 # Map
-USER-AGENT,com.apple.Maps
-USER-AGENT,*com.apple.Maps?  
-USER-AGENT,Maps* 
-DOMAIN,gs-loc-cn.apple.com
+# USER-AGENT,com.apple.Maps
+# USER-AGENT,*com.apple.Maps?  
+# USER-AGENT,Maps* 
+# DOMAIN,gs-loc-cn.apple.com
     
 ## FindMy  
 USER-AGENT,FindMyFriends*
