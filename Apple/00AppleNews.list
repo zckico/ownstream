@@ -1,0 +1,20 @@
+# 00AppleNews
+
+# NAME: AppleNews
+# UPDATED: 2024-04-29 13:32:57
+
+# AppleNews
+DOMAIN,gspe1-ssl.ls.apple.com
+DOMAIN,news-client-search.apple.com
+DOMAIN,news-events.apple.com
+DOMAIN,news-edge.apple.com
+DOMAIN,apple.comscoreresearch.com
+DOMAIN-SUFFIX,apple.news
+USER-AGENT,AppleNews*
+USER-AGENT,com.apple.news*
+
+# Map
+USER-AGENT,com.apple.Maps
+USER-AGENT,*com.apple.Maps?  
+USER-AGENT,Maps* 
+DOMAIN,gs-loc-cn.apple.com
