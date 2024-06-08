@@ -33,11 +33,11 @@ DOMAIN-SUFFIX,ocsp.apple.com
 USER-AGENT,com.apple.trustd*
     
 ## Apple News
-USER-AGENT,AppleNews*
-DOMAIN-SUFFIX,apple.news
-DOMAIN,news-events.apple.com
-DOMAIN,news-edge.apple.com
-DOMAIN,apple.comscoreresearch.com
+# USER-AGENT,AppleNews*
+# DOMAIN-SUFFIX,apple.news
+# DOMAIN,news-events.apple.com
+# DOMAIN,news-edge.apple.com
+# DOMAIN,apple.comscoreresearch.com
     
 # DOMAIN,gateway.icloud.com
 DOMAIN,gspe1-ssl.ls.apple.com
