@@ -7,16 +7,6 @@ DOMAIN-SUFFIX,discoveryplus.com
 DOMAIN-SUFFIX,discoveryplus.in
 DOMAIN-SUFFIX,dnitv.com
 
-# > HBO NOW & Max
-USER-AGENT,HBO%20NOW*
-DOMAIN-SUFFIX,hbo.com
-DOMAIN-SUFFIX,hbogo.com
-DOMAIN-SUFFIX,hbonow.com
-USER-AGENT,HBOMAX*
-DOMAIN-SUFFIX,hbomax.com
-DOMAIN-SUFFIX,hbomaxcdn.com
-DOMAIN-SUFFIX,discomax.com
-
 
 # > CuriosityStream
 DOMAIN-SUFFIX,curiositystream.com
