@@ -1,3 +1,14 @@
+# > HBO NOW & Max
+USER-AGENT,HBO%20NOW*
+DOMAIN-SUFFIX,hbo.com
+DOMAIN-SUFFIX,hbogo.com
+DOMAIN-SUFFIX,hbonow.com
+USER-AGENT,HBOMAX*
+DOMAIN-SUFFIX,hbomax.com
+DOMAIN-SUFFIX,hbomaxcdn.com
+DOMAIN-SUFFIX,discomax.com
+
+# > Disney
 USER-AGENT,Disney*
 DOMAIN-SUFFIX,disneyplus.com
 DOMAIN-SUFFIX,disney-plus.net
@@ -5,3 +16,5 @@ DOMAIN-SUFFIX,dssott.com
 DOMAIN-SUFFIX,bamgrid.com
 DOMAIN-SUFFIX,execute-api.us-east-1.amazonaws.com
 DOMAIN,cdn.registerdisney.go.com
+
+
