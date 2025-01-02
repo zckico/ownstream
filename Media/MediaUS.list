@@ -15,9 +15,7 @@ DOMAIN-SUFFIX,curiositystream.com
 DOMAIN-SUFFIX,mubi.com
 DOMAIN-SUFFIX,tracking.mubi.com
 DOMAIN-SUFFIX,mubicdn.net
-DOMAIN-SUFFIX,litix.io
-DOMAIN-SUFFIX,braze.eu
-DOMAIN-SUFFIX,push.apple.com
+
 
 # > AMC
 DOMAIN-SUFFIX,mparticle.com
